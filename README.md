@@ -1,2 +1,2 @@
 # Bootstrap-examples
-Bootstrap实战PDF及随书例程
+Bootstrap实战之书籍例程
